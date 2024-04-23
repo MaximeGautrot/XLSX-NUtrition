@@ -1,0 +1,8 @@
+{
+    "files": [
+        "main.py",
+        "createXLS.py",
+        "projetCSVAutomatique.py",
+        "produits.json"
+    ]
+}
